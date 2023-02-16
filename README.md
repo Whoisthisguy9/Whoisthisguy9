@@ -1,5 +1,7 @@
 - Current head developer of [Dank Group](https://github.com/DankGroup)
-- I also design user interfaces using DankUX
+- Average coding enthusiast
+- Developer of Dank Utilities
+- Designer of DankUX
 
 <!---
 Whoisthisguy9/Whoisthisguy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
