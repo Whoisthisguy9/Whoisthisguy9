@@ -1,7 +1,7 @@
 - Current head developer of [Dank Group](https://github.com/DankGroup)
-- Average average student programing enthusiast
-- Developer of Dank Utilities
-- Developer of ModernVue
+- Average student programing enthusiast
+- Developing of Dank Utilities
+- Developing of ModernVue
 - Experiance with Javascript, Python, and Swift
 
 <!---
